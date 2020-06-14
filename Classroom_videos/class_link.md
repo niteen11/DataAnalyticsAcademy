@@ -1,5 +1,5 @@
 # DataAnalyticsAcademy
-##(SQL, Python and Tableau)
+## (SQL, Python and Tableau)
 
 ## SQL
 
