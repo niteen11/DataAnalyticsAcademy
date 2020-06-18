@@ -14,4 +14,4 @@
 | June 11, 2020  | <https://youtu.be/Yml35hi6e-w>|
 | June 13, 2020  | <https://youtu.be/qFXmXreKolM>|
 | June 15, 2020  | <https://youtu.be/yXE4w3hJiY0>|
- 
+| June 15, 2020  | <https://youtu.be/AOloDxdK1-0>|
