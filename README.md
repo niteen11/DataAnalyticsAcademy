@@ -15,4 +15,4 @@
 | June 13, 2020  | <https://youtu.be/qFXmXreKolM>|
 | June 15, 2020  | <https://youtu.be/yXE4w3hJiY0>|
 | June 17, 2020  | <https://youtu.be/AOloDxdK1-0>|
-| June 17, 2020  | <https://youtu.be/ojtlF19mc_Q>|
+| June 20, 2020  | <https://youtu.be/ojtlF19mc_Q>|
