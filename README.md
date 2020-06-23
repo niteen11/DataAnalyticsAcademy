@@ -3,7 +3,7 @@
 
 ## SQL
 
-| Date        	 | Link          		 |
+| Date        	 | Link          		             |
 | ---------------|:-----------------------------:|
 | June 1, 2020   | <https://youtu.be/mTw4OA0O2ww>|
 | June 3, 2020   | <https://youtu.be/GdobGwXcKP0>|
@@ -16,3 +16,4 @@
 | June 15, 2020  | <https://youtu.be/yXE4w3hJiY0>|
 | June 17, 2020  | <https://youtu.be/AOloDxdK1-0>|
 | June 20, 2020  | <https://youtu.be/ojtlF19mc_Q>|
+| June 22, 2020  | <https://youtu.be/ryZR-zoB0Vk>|
