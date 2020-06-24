@@ -3,6 +3,9 @@
 ## Class - Track 1 A
 ## SQL Capstone Project
 
+### Presentaion template link <https://drive.google.com/file/d/1bM68YZZ9UHvRGtU5ow8I3i7oDSG8ubmO/view?usp=sharing>
+
+
 | Student      	 	    | Email          		     | Presentation Link        		 |
 | --------------------------|:------------------------------:| :-----------------------------------------:
 | Aukia	Betancourt          | Aukia.Betancourt@nychhc.org    | Presentation Link        		 |
