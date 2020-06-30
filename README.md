@@ -17,3 +17,14 @@
 | June 17, 2020  | <https://youtu.be/AOloDxdK1-0>|
 | June 20, 2020  | <https://youtu.be/ojtlF19mc_Q>|
 | June 22, 2020  | <https://youtu.be/ryZR-zoB0Vk>|
+| June 27, 2020(1) | <https://youtu.be/rdDrY4P0XPU>|
+| June 27, 2020 (2) | <https://youtu.be/YcWAffbgreM>|
+
+
+
+## Python
+
+| Date        	 | Link          		              |
+| ---------------|:------------------------------:|
+| June 29, 2020   | <https://youtu.be/GZd3fFFdaoo>|
+
