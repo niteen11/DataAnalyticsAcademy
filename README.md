@@ -27,6 +27,6 @@
 | Date        	 | Link          		              |
 | ---------------|:------------------------------:|
 | June 29, 2020   | <https://youtu.be/GZd3fFFdaoo>|
-| June 29, 2020   | <https://youtu.be/wEtIoqqodbU>|
+| July 1, 2020   | <https://youtu.be/wEtIoqqodbU>|
 
 
