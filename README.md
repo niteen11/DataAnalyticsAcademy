@@ -30,6 +30,8 @@
 | July 1, 2020   | <https://youtu.be/wEtIoqqodbU> |
 | July 6, 2020   | <https://youtu.be/FGYFykDB0Oc> |
 | July 8, 2020   | <https://youtu.be/d6X8Cu6FJ_Y> |
+| July 9, 2020   | <https://youtu.be/vO210adYBb4> |
+
 
 
 
