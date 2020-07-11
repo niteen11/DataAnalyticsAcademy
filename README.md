@@ -26,8 +26,8 @@
 
 | Date        	 | Link          		              |  Google Colab link                                                                       |
 | ---------------|:------------------------------:|:----------------------------------------------------------------------------------------:|
-| June 29, 2020  | <https://youtu.be/GZd3fFFdaoo> |                                                                            
-| July 1, 2020   | <https://youtu.be/wEtIoqqodbU> | <https://drive.google.com/file/d/1PRqh149viYgasfXMixTxQ_j_1zohoabf/view?usp=sharing>     |
+| June 29, 2020  | <https://youtu.be/GZd3fFFdaoo> |                                                                                          |
+| July 1, 2020   | <https://youtu.be/wEtIoqqodbU> | <https://colab.research.google.com/drive/1DWF-CXxLgpw2WvgvPpbLBJJ8FFNjqQiZ?usp=sharing>  |
 | July 6, 2020   | <https://youtu.be/FGYFykDB0Oc> | <https://colab.research.google.com/drive/1yeOyp9nhYY6fMz7NTop8hDXkI764yyWF?usp=sharing>  |
 | July 8, 2020   | <https://youtu.be/d6X8Cu6FJ_Y> | <https://colab.research.google.com/drive/17vhYvN7lYsViRyjzhwzY2jquC2AkzYia?usp=sharing>  |
 | July 9, 2020   | <https://youtu.be/vO210adYBb4> | <https://colab.research.google.com/drive/1FJYAasJSYUMooGCeaQIS5pKtvs4JznJh?usp=sharing>  |
