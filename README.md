@@ -39,8 +39,8 @@
 | July 20, 2020  | <https://youtu.be/NaRVWjrAJ5E>  | <https://colab.research.google.com/drive/1PrtPWypIH74435MIuiBtI5BkoUj8U5zL?usp=sharing>  |
 | July 22, 2020  | <https://youtu.be/vanEYoBSyao>  | <https://colab.research.google.com/drive/1T9xXOQdBJnU08VXYpsOUtkPRajGiFwM5?usp=sharing>  |
 | July 23, 2020  | <https://youtu.be/K9SseSNhyuI>  | <https://colab.research.google.com/drive/1vWtSmCgG5Tk8WY_S9wZ0tXN8nBWbeNH2?usp=sharing>  |
-| July 24, 2020 -Part 1 | Video Coming Soon  | <https://colab.research.google.com/drive/1LPCNYr2h8lNud9SxbOOvNQu6r6lgJZZs?usp=sharing>  |
-| July 24, 2020 -Part 2 | Video Coming Soon  | <https://colab.research.google.com/drive/13FG2pTrOJ6LvFNe9S99Ye0ghHhY2I4Eb?usp=sharing>  |
+| July 24, 2020 -Part 1 | <https://youtu.be/P83lOIlsnTw>  | <https://colab.research.google.com/drive/1LPCNYr2h8lNud9SxbOOvNQu6r6lgJZZs?usp=sharing>  |
+| July 24, 2020 -Part 2 | <https://youtu.be/P83lOIlsnTw>  | <https://colab.research.google.com/drive/13FG2pTrOJ6LvFNe9S99Ye0ghHhY2I4Eb?usp=sharing>  |
 
 
 
