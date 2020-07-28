@@ -41,6 +41,8 @@
 | July 23, 2020  | <https://youtu.be/K9SseSNhyuI>  | <https://colab.research.google.com/drive/1vWtSmCgG5Tk8WY_S9wZ0tXN8nBWbeNH2?usp=sharing>  |
 | July 24, 2020 -Part 1 | <https://youtu.be/P83lOIlsnTw>  | <https://colab.research.google.com/drive/1LPCNYr2h8lNud9SxbOOvNQu6r6lgJZZs?usp=sharing>  |
 | July 24, 2020 -Part 2 | <https://youtu.be/P83lOIlsnTw>  | <https://colab.research.google.com/drive/13FG2pTrOJ6LvFNe9S99Ye0ghHhY2I4Eb?usp=sharing>  |
+| July 27, 2020| <https://youtu.be/g2s4MeUUu3I>  | <https://colab.research.google.com/drive/19MgoPwumo-fIOrI7dQ5xe4YOSNe3gSPF?usp=sharing>  |
+
 
 
 
