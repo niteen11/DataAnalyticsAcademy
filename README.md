@@ -44,6 +44,13 @@
 | July 27, 2020| <https://youtu.be/g2s4MeUUu3I>  | <https://colab.research.google.com/drive/19MgoPwumo-fIOrI7dQ5xe4YOSNe3gSPF?usp=sharing>  |
 
 
+## Tableau
+
+| Date        	 | Link          		              |
+| ---------------|:------------------------------:|
+| Aug 18, 2020  | <https://youtu.be/y0iS6x3xQ30>  |                                                                                          |
+
+
 
 
 
