@@ -48,7 +48,10 @@
 
 | Date        	 | Link          		              |
 | ---------------|:------------------------------:|
-| Aug 18, 2020  | <https://youtu.be/y0iS6x3xQ30>  |                                                                                          |
+| Aug 17, 2020  | <https://youtu.be/y0iS6x3xQ30>  |   
+| Aug 19, 2020  | <https://youtu.be/P6aULAybaXo>  |
+| Aug 20, 2020  | <https://youtu.be/51NKSdkKflo>  |
+
 
 
 
